@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Pollo Entero",
+    "price": 10.99,
+    "image": "./galeria/pollo_entero.jpg",
+    "porciones": [
+      ["PORCION ENSALADA", 0.75, 0, 51],
+      ["PORCION CHIFLE", 0.75, 0, 52],
+      ["PORCION ARROZ FAMILIAR (4 persn.)", 4.5, 0, 53],
+      ["PORCION MENESTRA FAMILIAR", 2.99, 0, 54]
+    ],
+    "descripcion": "1 Pollo entero + 1 por.ensalada + 1 por. chifle + 1 por. papas",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "title": "Medio Pollo",
+    "price": 5.99,
+    "image": "./galeria/medio_pollo.jpg",
+    "porciones": [
+      ["PORCION ENSALADA", 0.75, 0, 55],
+      ["PORCION CHIFLE", 0.75, 0, 56],
+      ["PORCION ARROZ", 1.5, 0, 57],
+      ["PORCION ARROZ FAMILIAR (4 persn.)", 4.25, 0, 58],
+      ["PORCION MENESTRA MEDIANO", 1.5, 0, 59]
+    ],
+    "descripcion": "1 Medio Pollo + 1 por.ensalada + 1 por. chifle + 1 por. papas",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "title": "Cuarto pechuga",
+    "price": 3.5,
+    "image": "./galeria/cuarto_pechuga.jpg",
+    "porciones": [
+      ["PORCION ENSALADA", 0.75, 0, 61],
+      ["PORCION CHIFLE", 0.75, 0, 62],
+      ["PORCION ARROZ", 1.5, 0, 63],
+      ["PORCION MENESTRA MEDIANO", 1.5, 0, 64]
+    ],
+    "descripcion": "1 Cuarto de pollo pechuga + 1 por.ensalada + 1 por. chifle + 1 por. papas",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "title": "Cuarto pierna",
+    "price": 2.75,
+    "image": "./galeria/cuarto_pechuga.jpg",
+    "porciones": [
+      ["PORCION ENSALADA", 0.75, 0, 64],
+      ["PORCION CHIFLE", 0.75, 0, 66],
+      ["PORCION ARROZ CON MENESTRA", 1.75, 0, 67]
+    ],
+    "descripcion": "1 Cuarto de pollo pierna + 1 por.ensalada + 1 por. chifle + 1 por. papas",
+    "cantidad": 1
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.614f6246.css",
+    "main.js": "/static/js/main.d4f8505e.js",
+    "static/media/logo_PikoFino2.png": "/static/media/logo_PikoFino2.75527821fcb6df1b06e4.png",
+    "static/media/carbonArdiendo4.jpg": "/static/media/carbonArdiendo4.93965842bef840dc8027.jpg",
+    "static/media/pollos_en_horno.jpg": "/static/media/pollos_en_horno.8ef879eb994fcfcd7eca.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.29c927ab0e428ec09669.png",
+    "static/media/instagram.png": "/static/media/instagram.ed10db13f33304925249.png",
+    "static/media/facebook.png": "/static/media/facebook.d87a3bfa770b333c5f6b.png",
+    "index.html": "/index.html",
+    "main.614f6246.css.map": "/static/css/main.614f6246.css.map",
+    "main.d4f8505e.js.map": "/static/js/main.d4f8505e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614f6246.css",
+    "static/js/main.d4f8505e.js"
+  ]
+}
